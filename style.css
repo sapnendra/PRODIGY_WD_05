@@ -99,9 +99,10 @@ body{
     background: rgba(0,0,0,0.2);
     transition: all 0.2s ease-in-out;
     cursor: pointer;
+    margin-right: 50px;
 }
 .future-forecast .today:hover {
-    transform: scale(0.95);
+    transform: scale(1.09);
 }
 
 .future-forecast .today .day{
