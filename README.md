@@ -13,11 +13,11 @@ This is a simple weather web application created using HTML, CSS, and JavaScript
 - HTML
 - CSS
 - JavaScript
-- Weather API (Specify the API you are using, e.g., OpenWeatherMap, Weatherstack, etc.)
+- Weather API (OpenWeatherMap)
 
 ## Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <https://github.com/sapnendra/PRODIGY_WD_05>`
 2. Open the `index.html` file in your web browser.
 
 ## Setup
