@@ -4,7 +4,8 @@ import bodyParser from "body-parser";
 
 const app = express();
 const port = 3000;
-const apiKey = "248f55de320989adcdd6ce6335f4490f";
+// API key
+const apiKey = "";
 const baseUrl = "https://api.openweathermap.org/data/3.0";
 
 app.use(express.static("public"));
